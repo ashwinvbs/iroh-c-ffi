@@ -7,3 +7,5 @@ main
 multi-thread-client
 multi-thread-server
 single-thread-server
+
+subprojects/meson-cargo-1
